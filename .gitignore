@@ -1,0 +1,6 @@
+#ignore everything
+*
+
+#exept these:
+!init.el
+!.gitignore
